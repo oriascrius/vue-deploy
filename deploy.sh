@@ -29,7 +29,7 @@ git commit -m 'deploy'
 # git push -f git@github.com:oriascrius/oriascrius.github.io.git main
 
 # 部屬在 gh-pages 上
-# if you are deploying to https://oriascrius.github.io/Hex-all_practice
-git push -f git@github.com:oriascrius/Hex-all_practice/vue-vite main:gh-pages
+# if you are deploying to https://oriascrius.github.io/vue-deploy
+git push -f git@github.com:oriascrius/vue-deploy.git main:gh-pages
 
 cd -
